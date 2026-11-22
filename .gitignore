@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+out/
+run/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+bin/
+.classpath
+.project
+.settings/
+
+# Assets converted from the Bedrock pack: Oreville Studios' property, never commit
+/pack-assets/
+
+# Built/original jars
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
